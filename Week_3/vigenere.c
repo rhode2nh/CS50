@@ -20,6 +20,7 @@ const int ALPHA_LEN = 26;
 int main(int argc, string argv[])
 
 {
+    // Stores the unencrypted text given by the user
     string plaintext;
     
     /* The user must put only one command line argument. */
