@@ -1,2 +1,2 @@
 # CS50
-CS50 completed projects
+These are projects that I've completed while working on the CS50 course.
