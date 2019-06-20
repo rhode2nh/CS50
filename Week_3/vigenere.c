@@ -99,7 +99,7 @@ int main(int argc, string argv[])
 }
 
 /* This function normalizes characters and returns its corresponding
- * index in the alphabet */
+ * index in the ASCII alphabet */
 int shift(char c)
 {
     /* For uppercase characters. */
